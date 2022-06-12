@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![aaa](https://www.roomeqwizard.com/help/images/rewmeasurements.jpg)
